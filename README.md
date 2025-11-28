@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stevens</h1>
 <h3 align="center">Software Developer</h3>
 
-- I’m currently working on **an AI Integrated in WhatsApp**
-
 - I’m currently learning **React, Docker**
 
 - I’m looking to collaborate on **game development in cpp**
 
 - I’m looking for help with **my AI health tracker integration in WhatsApp**
-
-- Fun fact **I've completed all the retro nintendo PokeMon releases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

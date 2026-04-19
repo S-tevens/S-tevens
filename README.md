@@ -18,42 +18,16 @@ Building real-world projects that actually solve problems 🚀
 </p>
 
 ---
+<h3 align="left">⚙️ Tech Stack</h3>
 
-### ⚙️ Tech Stack
 <p align="left">
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </p>
-
 ---
